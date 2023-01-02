@@ -1,4 +1,4 @@
-﻿string [] array = { "abcd" , "345678" , "qaq", "geek", "brains" , "123" };
+﻿string [] array = { "abc" , "345678" , "qq", "geek", "brains" , "123" };
 
 string [] result = new string[array.Length];
 
